@@ -6,7 +6,7 @@ Hello.
 
 I do computer things. You can find me in various places around the web:
 
-* [Website](https//zorchenhimer.com) - I put things here
+* [Website](https://zorchenhimer.com) - I put things here
 * [Twitch](https://www.twitch.tv/zorchenhimer) - Streams on Fridays & Sundays, usually
 * [Discord](https://discord.gg/d5tpRSx) - I rant a bunch on here
 * [Patreon](https://www.patreon.com/Zorchenhimer) - I release roms early over here (sometimes)
