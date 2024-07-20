@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zorchenhimer/zorchenhimer/main/github-banner.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zorchenhimer/zorchenhimer/master/github-banner.png" /></p>
 
 <p><a href="https://www.twitch.tv/zorchenhimer" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/zorchenhimer?style=for-the-badge"></a></p>
 
